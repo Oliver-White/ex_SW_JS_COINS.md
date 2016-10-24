@@ -1,7 +1,6 @@
-var cash
-console.log("Initial Cash:", cash)
+var cash = 2.99;
 cash = cash * 100;
-
+console.log("Initial Cash:", cash)
 
 var purse = {
 	quarters: 0, 
